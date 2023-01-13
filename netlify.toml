@@ -1,0 +1,10 @@
+[[redirects]]
+from = "/order"
+to = "https://hop.clickbank.net/?affiliate=527914&vendor=prostadine&cbpage=tsl&tid=organic"
+force = true
+
+[[redirects]]
+from = "/index.html"
+to = "/"
+status = 301
+force = true
